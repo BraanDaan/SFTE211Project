@@ -1,4 +1,4 @@
-package edu.bushnell;
+package edu.bushnell.Advice;
 
 import javax.swing.ImageIcon;
 import javax.swing.JLabel;
