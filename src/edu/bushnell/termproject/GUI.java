@@ -1,4 +1,4 @@
-package edu.bushnell.Advice;
+package edu.bushnell.termproject;
 
 import java.awt.Color;
 import java.awt.Component;
